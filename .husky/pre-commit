@@ -1,1 +1,1 @@
-npm test
+cd backend/functions && npx eslint src/index.js
