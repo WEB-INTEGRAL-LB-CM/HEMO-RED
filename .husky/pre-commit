@@ -1,1 +1,2 @@
+export PATH="$APPDATA/nvm/v24.13.0:$PATH"
 npx lint-staged
