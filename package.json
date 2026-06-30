@@ -10,10 +10,18 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WEB-INTEGRAL-LB-CM/HEMO-RED.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/WEB-INTEGRAL-LB-CM/HEMO-RED/issues"
+  },
+  "homepage": "https://github.com/WEB-INTEGRAL-LB-CM/HEMO-RED#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.8.1",
     "@commitlint/config-conventional": "^17.8.1",
